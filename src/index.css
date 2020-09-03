@@ -36,7 +36,7 @@ button{
   border-width: 2px !important;
 }
 button:hover{
-  background-color: #ffc107 !important;
+  background-color: #6c757d !important;
   border:none;
 }
 input[type="text"]:focus{
